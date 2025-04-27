@@ -1,3 +1,3 @@
 # Ghibil_style
 
-with machine learning
+with machine learning algorithms 
